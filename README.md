@@ -1,4 +1,4 @@
-AI-Powered Language Translator – Detailed Description 🌐
+<h1>AI-Powered Language Translator – Detailed Description 🌐</h1>
 
 This project is an AI-Powered Language Translator built using Python and the googletrans library. It allows users to translate text between 100+ languages with automatic language detection.
 The tool provides a simple and user-friendly Command-Line Interface (CLI) where you can enter:
@@ -27,7 +27,8 @@ Web Applications (Flask/FastAPI)
 
 Voice Translators (Speech-to-Text + Text-to-Speech)
 
-IoT & Smart Devices Integration
+
+
 
 Why This Project? 💡
 
